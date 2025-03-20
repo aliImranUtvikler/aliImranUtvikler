@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliImranUtvikler
 - 👀 I’m interested in AI, automation, and building digital products that generate passive income. I also enjoy martial arts like BJJ and boxing.  
-- 🌱 I’m currently learning how to create AI-powered chatbots and automate video content using Huggingface, RunwayML, Kling, Pika, Freepick and many more.  
+- 🌱 I’m currently learning how to create AI-powered chatbots and automate video content using Huggingface, LLama, RunwayML, Kling, Pika, Freepick and many more.  
 - 💞️ I’m looking to collaborate on AI-driven services, chatbots, and creative automation projects.  
 - 📫 How to reach me: Connect with me through my website [mjevo.no](https://mjevo.no)
 - ⚡ Fun fact: I love creating bizarre AI-generated videos that look like they’re from a parallel universe.  
